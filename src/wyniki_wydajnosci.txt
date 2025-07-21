@@ -1,0 +1,18 @@
+Wyniki pomiaru wydajności algorytmu AI dla warcabów
+Data: 2025-06-10 13:57:57
+
+GłębokośćŚrednia (ms)  Min (ms)    Max (ms)    Testów   
+-----------------------------------------------------------------
+1         0.35           0.35        0.35        5         
+2         2.67           2.38        2.93        5         
+3         9.87           9.64        9.98        5         
+4         30.87          30.22       32.52       5         
+5         133.84         132.62      135.59      5         
+6         448.41         441.23      459.29      5         
+
+Analiza złożoności czasowej:
+Stosunek czasu głębokości 2 do głębokości 1: 7.69x
+Stosunek czasu głębokości 3 do głębokości 2: 3.70x
+Stosunek czasu głębokości 4 do głębokości 3: 3.13x
+Stosunek czasu głębokości 5 do głębokości 4: 4.34x
+Stosunek czasu głębokości 6 do głębokości 5: 3.35x

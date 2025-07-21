@@ -1,0 +1,3 @@
+C:/Visual Studio/PiAA_proj3/viz/build/CMakeFiles/viz.dir
+C:/Visual Studio/PiAA_proj3/viz/build/CMakeFiles/edit_cache.dir
+C:/Visual Studio/PiAA_proj3/viz/build/CMakeFiles/rebuild_cache.dir

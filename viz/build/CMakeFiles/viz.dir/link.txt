@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\viz.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\viz.dir/objects.a @CMakeFiles\viz.dir\objects1.rsp
+C:\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\viz.dir/objects.a -Wl,--no-whole-archive -o viz.exe -Wl,--out-implib,libviz.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\viz.dir\linkLibs.rsp
